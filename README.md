@@ -5,7 +5,7 @@ If you think a package should be added, please add a :+1: (`:+1:`) at the accord
 
 There are [other sites with curated lists of elixir packages](#other-awesome-lists) which you can have a look at.
 
-- [Awesome Elixir](#awesome-elixir)
+- [Awesome Elixir]( #awesome-elixir )
     - [Actors](#actors)
     - [Algorithms and Data structures](#algorithms-and-data-structures)
     - [Applications](#applications)
